@@ -1,0 +1,75 @@
+.gegantung-header{
+    font-family: 'Fredoka One', cursive;
+    color: #F4F4F4;
+}
+
+.fa-power-off{
+    width: 50%;
+}
+
+/* seksyen 1 */
+
+.Seksyen1{
+    background-color: #373737;
+    padding: 7% 15% 7%;
+}
+
+.gegantung{
+    text-align: center;
+}
+
+.font-putih{
+    color: #F4F4F4;
+}
+
+.seksyen2{
+    background-color: #FFF7BC;
+}
+
+.ikon{
+    color: rgb(255, 255, 255);
+}
+
+/* seksyen 3 */
+.Shoes{
+    font-family: 'Alfa Slab One', cursive;
+    background-color: #f4f4f4;
+    text-align: left;
+    color: #000000;
+}
+
+.text{
+    font-family: 'Anton', sans-serif;
+}
+
+/* seksyen 4 */
+.servis{
+    background-color: #f4f4f4;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+
+.footer{
+    background-color: #F4F4F4;
+    padding: 2;
+    text-align: center;
+    color: rgb(3, 3, 3);
+}
+
+.media{
+    color: rgb(233, 18, 18);
+    color: #4E944F;
+}
+
+/* seksyen 5 */
+.seksyen5{
+    background-color: #373737;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+/* navbar start */
+.navbar-brand{
+    font-family: 'Fredoka One', cursive;
+}
